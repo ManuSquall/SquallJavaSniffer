@@ -1,7 +1,7 @@
 <!-- Repository git : https://github.com/ManuSquall/SquallJavaSniffer -->
 # SquallJavaSniffer
 
-Java console app to get informations from a website by this url and display it in terminal.
+Java console app to get informations from a website by his url and display it in terminal.
 
 ## Context
 
@@ -33,6 +33,8 @@ Working on it.
 
 
 ## Acknowledgments
+Working on it.
+
 
 
 
