@@ -1,5 +1,5 @@
-Repository git : https://github.com/ManuSquall/SquallJavaSniffer
-# SquallJavaSniffert
+<!-- Repository git : https://github.com/ManuSquall/SquallJavaSniffer -->
+# SquallJavaSniffer
 
 Java console app to get informations from a website by this url and display it in terminal.
 
@@ -19,9 +19,9 @@ The objective was to use this url: https://cartosantesen.maps.arcgis.com/apps/da
 
 ### Output:
 
-[output1](/readme/output1.png)
+![output1](/readme/output1.png)
 
-[output2](/readme/output2.png)
+![output2](/readme/output2.png)
 
 ## About Authors / Contributors
 
