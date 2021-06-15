@@ -29,7 +29,7 @@ The objective was to use this url: https://cartosantesen.maps.arcgis.com/apps/da
 
 ## License
 
-Working on it.
+This project is licensed under the [CC0 1.0 Universal](https://creativecommons.org/) Creative Commons License.
 
 
 ## Acknowledgments
